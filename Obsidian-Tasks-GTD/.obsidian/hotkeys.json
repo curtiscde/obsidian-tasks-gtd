@@ -7,5 +7,13 @@
       ],
       "key": "D"
     }
+  ],
+  "templater-obsidian:Templates/gtd-tag.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }
